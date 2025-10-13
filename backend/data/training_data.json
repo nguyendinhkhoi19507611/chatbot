@@ -1,0 +1,94 @@
+{
+  "training_samples": [
+    {
+      "user_input": "Tôi thích lập trình và giải quyết vấn đề",
+      "interests": ["công nghệ", "lập trình", "giải quyết vấn đề", "logic"],
+      "recommended_career_id": 1
+    },
+    {
+      "user_input": "Tôi yêu thích nghệ thuật và sáng tạo hình ảnh",
+      "interests": ["nghệ thuật", "sáng tạo", "thị giác", "màu sắc"],
+      "recommended_career_id": 2
+    },
+    {
+      "user_input": "Tôi muốn giúp đỡ người khác và chăm sóc sức khỏe",
+      "interests": ["y học", "giúp đỡ người khác", "chăm sóc", "khoa học"],
+      "recommended_career_id": 3
+    },
+    {
+      "user_input": "Tôi thích dạy học và truyền đạt kiến thức",
+      "interests": ["giáo dục", "giảng dạy", "giúp đỡ người khác", "kiên nhẫn"],
+      "recommended_career_id": 4
+    },
+    {
+      "user_input": "Tôi giỏi toán và thích làm việc với số liệu",
+      "interests": ["số học", "tài chính", "chi tiết", "logic"],
+      "recommended_career_id": 5
+    },
+    {
+      "user_input": "Tôi thích sáng tạo chiến dịch và thuyết phục người khác",
+      "interests": ["marketing", "sáng tạo", "giao tiếp", "thuyết phục"],
+      "recommended_career_id": 6
+    },
+    {
+      "user_input": "Tôi thích thiết kế không gian và công trình",
+      "interests": ["thiết kế", "không gian", "sáng tạo", "kỹ thuật"],
+      "recommended_career_id": 7
+    },
+    {
+      "user_input": "Tôi yêu thích viết lách và nghiên cứu tin tức",
+      "interests": ["viết lách", "thời sự", "nghiên cứu", "giao tiếp"],
+      "recommended_career_id": 8
+    },
+    {
+      "user_input": "Tôi đam mê phân tích dữ liệu và AI",
+      "interests": ["dữ liệu", "thống kê", "lập trình", "phân tích", "AI"],
+      "recommended_career_id": 9
+    },
+    {
+      "user_input": "Tôi thích nấu ăn và sáng tạo món ăn mới",
+      "interests": ["nấu ăn", "ẩm thực", "sáng tạo", "hương vị"],
+      "recommended_career_id": 10
+    },
+    {
+      "user_input": "Tôi thích đọc luật và tranh luận logic",
+      "interests": ["luật pháp", "tranh luận", "phân tích", "logic"],
+      "recommended_career_id": 11
+    },
+    {
+      "user_input": "Tôi yêu thích chụp ảnh và ghi lại khoảnh khắc",
+      "interests": ["nhiếp ảnh", "nghệ thuật", "thị giác", "sáng tạo"],
+      "recommended_career_id": 12
+    },
+    {
+      "user_input": "Tôi muốn hiểu và giúp đỡ người khác về mặt tâm lý",
+      "interests": ["tâm lý", "giúp đỡ người khác", "lắng nghe", "empathy"],
+      "recommended_career_id": 13
+    },
+    {
+      "user_input": "Tôi thích xây dựng và làm việc với công trình",
+      "interests": ["xây dựng", "kỹ thuật", "toán học", "thực tế"],
+      "recommended_career_id": 14
+    },
+    {
+      "user_input": "Tôi muốn khởi nghiệp và xây dựng doanh nghiệp riêng",
+      "interests": ["kinh doanh", "lãnh đạo", "sáng tạo", "độc lập"],
+      "recommended_career_id": 15
+    },
+    {
+      "user_input": "Tôi thích code và xây dựng ứng dụng",
+      "interests": ["công nghệ", "lập trình", "sáng tạo"],
+      "recommended_career_id": 1
+    },
+    {
+      "user_input": "Tôi thích vẽ và làm việc với photoshop",
+      "interests": ["nghệ thuật", "sáng tạo", "thị giác"],
+      "recommended_career_id": 2
+    },
+    {
+      "user_input": "Tôi muốn trở thành bác sĩ và cứu người",
+      "interests": ["y học", "giúp đỡ người khác", "khoa học"],
+      "recommended_career_id": 3
+    }
+  ]
+}

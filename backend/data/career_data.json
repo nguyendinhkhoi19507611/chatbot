@@ -1,0 +1,175 @@
+{
+  "careers": [
+    {
+      "id": 1,
+      "name": "Kỹ sư phần mềm",
+      "name_en": "Software Engineer",
+      "description": "Thiết kế, phát triển và bảo trì các ứng dụng phần mềm",
+      "interests": ["công nghệ", "lập trình", "giải quyết vấn đề", "logic", "sáng tạo", "toán học"],
+      "skills": ["lập trình", "thuật toán", "cấu trúc dữ liệu", "debug", "teamwork"],
+      "salary_range": "15-50 triệu VNĐ",
+      "education": "Đại học Công nghệ Thông tin hoặc liên quan",
+      "career_path": "Junior Developer -> Senior Developer -> Tech Lead -> Engineering Manager"
+    },
+    {
+      "id": 2,
+      "name": "Nhà thiết kế đồ họa",
+      "name_en": "Graphic Designer",
+      "description": "Tạo ra các thiết kế hình ảnh cho marketing, quảng cáo, sản phẩm",
+      "interests": ["nghệ thuật", "sáng tạo", "thị giác", "màu sắc", "thẩm mỹ", "vẽ"],
+      "skills": ["photoshop", "illustrator", "sáng tạo", "communication", "thẩm mỹ"],
+      "salary_range": "8-25 triệu VNĐ",
+      "education": "Đại học Mỹ thuật, Thiết kế",
+      "career_path": "Junior Designer -> Mid Designer -> Senior Designer -> Art Director"
+    },
+    {
+      "id": 3,
+      "name": "Bác sĩ",
+      "name_en": "Medical Doctor",
+      "description": "Chẩn đoán và điều trị bệnh nhân, chăm sóc sức khỏe cộng đồng",
+      "interests": ["y học", "khoa học", "giúp đỡ người khác", "nghiên cứu", "sinh học", "chăm sóc"],
+      "skills": ["y học", "chẩn đoán", "giao tiếp", "empathy", "kiên nhẫn"],
+      "salary_range": "15-80 triệu VNĐ",
+      "education": "Đại học Y khoa (6 năm) + Chuyên khoa",
+      "career_path": "Bác sĩ nội trú -> Bác sĩ điều trị -> Bác sĩ chuyên khoa -> Trưởng khoa"
+    },
+    {
+      "id": 4,
+      "name": "Giáo viên",
+      "name_en": "Teacher",
+      "description": "Giảng dạy và truyền đạt kiến thức cho học sinh",
+      "interests": ["giáo dục", "giảng dạy", "giúp đỡ người khác", "truyền đạt", "kiên nhẫn", "học tập"],
+      "skills": ["giảng dạy", "giao tiếp", "kiên nhẫn", "tổ chức", "empathy"],
+      "salary_range": "8-20 triệu VNĐ",
+      "education": "Đại học Sư phạm",
+      "career_path": "Giáo viên -> Tổ trưởng -> Phó hiệu trưởng -> Hiệu trưởng"
+    },
+    {
+      "id": 5,
+      "name": "Kế toán viên",
+      "name_en": "Accountant",
+      "description": "Quản lý sổ sách tài chính, báo cáo thuế và kiểm toán",
+      "interests": ["số học", "tài chính", "chi tiết", "logic", "phân tích", "tổ chức"],
+      "skills": ["kế toán", "excel", "phân tích", "chi tiết", "tổ chức"],
+      "salary_range": "10-30 triệu VNĐ",
+      "education": "Đại học Kinh tế, Tài chính",
+      "career_path": "Kế toán viên -> Kế toán trưởng -> Giám đốc tài chính"
+    },
+    {
+      "id": 6,
+      "name": "Marketing Manager",
+      "name_en": "Marketing Manager",
+      "description": "Xây dựng và thực hiện chiến lược marketing cho sản phẩm/dịch vụ",
+      "interests": ["marketing", "sáng tạo", "giao tiếp", "xu hướng", "phân tích", "thuyết phục"],
+      "skills": ["marketing", "communication", "phân tích", "sáng tạo", "digital marketing"],
+      "salary_range": "12-40 triệu VNĐ",
+      "education": "Đại học Marketing, Quản trị kinh doanh",
+      "career_path": "Marketing Executive -> Marketing Manager -> Marketing Director -> CMO"
+    },
+    {
+      "id": 7,
+      "name": "Kiến trúc sư",
+      "name_en": "Architect",
+      "description": "Thiết kế và quy hoạch các công trình kiến trúc",
+      "interests": ["thiết kế", "không gian", "sáng tạo", "nghệ thuật", "kỹ thuật", "vẽ"],
+      "skills": ["thiết kế", "CAD", "3D", "sáng tạo", "kỹ thuật"],
+      "salary_range": "12-50 triệu VNĐ",
+      "education": "Đại học Kiến trúc",
+      "career_path": "Kiến trúc sư tập sự -> Kiến trúc sư -> Kiến trúc sư trưởng -> Giám đốc thiết kế"
+    },
+    {
+      "id": 8,
+      "name": "Nhà báo",
+      "name_en": "Journalist",
+      "description": "Thu thập, phân tích và truyền đạt thông tin tin tức",
+      "interests": ["viết lách", "thời sự", "nghiên cứu", "giao tiếp", "xã hội", "khám phá"],
+      "skills": ["viết", "nghiên cứu", "phỏng vấn", "giao tiếp", "phân tích"],
+      "salary_range": "8-30 triệu VNĐ",
+      "education": "Đại học Báo chí, Truyền thông",
+      "career_path": "Phóng viên -> Biên tập viên -> Trưởng ban biên tập -> Tổng biên tập"
+    },
+    {
+      "id": 9,
+      "name": "Data Scientist",
+      "name_en": "Data Scientist",
+      "description": "Phân tích dữ liệu lớn và xây dựng mô hình machine learning",
+      "interests": ["dữ liệu", "thống kê", "lập trình", "toán học", "phân tích", "AI"],
+      "skills": ["python", "statistics", "machine learning", "SQL", "visualization"],
+      "salary_range": "20-60 triệu VNĐ",
+      "education": "Đại học Khoa học máy tính, Toán, Thống kê",
+      "career_path": "Junior Data Analyst -> Data Scientist -> Senior Data Scientist -> Lead Data Scientist"
+    },
+    {
+      "id": 10,
+      "name": "Đầu bếp",
+      "name_en": "Chef",
+      "description": "Sáng tạo và chế biến các món ăn",
+      "interests": ["nấu ăn", "ẩm thực", "sáng tạo", "hương vị", "nghệ thuật", "thực phẩm"],
+      "skills": ["nấu ăn", "sáng tạo", "quản lý thời gian", "vệ sinh", "teamwork"],
+      "salary_range": "10-40 triệu VNĐ",
+      "education": "Trường dạy nghề ẩm thực, Đại học Du lịch",
+      "career_path": "Phụ bếp -> Bếp phó -> Bếp trưởng -> Điều hành bếp"
+    },
+    {
+      "id": 11,
+      "name": "Luật sư",
+      "name_en": "Lawyer",
+      "description": "Tư vấn pháp lý và đại diện khách hàng trong các vụ kiện",
+      "interests": ["luật pháp", "tranh luận", "phân tích", "đọc", "logic", "công lý"],
+      "skills": ["luật", "phân tích", "tranh luận", "viết", "nghiên cứu"],
+      "salary_range": "15-100 triệu VNĐ",
+      "education": "Đại học Luật + Bằng hành nghề",
+      "career_path": "Luật sư tập sự -> Luật sư -> Luật sư cao cấp -> Partner"
+    },
+    {
+      "id": 12,
+      "name": "Nhiếp ảnh gia",
+      "name_en": "Photographer",
+      "description": "Chụp ảnh chuyên nghiệp cho sự kiện, quảng cáo, nghệ thuật",
+      "interests": ["nhiếp ảnh", "nghệ thuật", "thị giác", "sáng tạo", "ánh sáng", "khoảnh khắc"],
+      "skills": ["nhiếp ảnh", "lightroom", "photoshop", "sáng tạo", "thẩm mỹ"],
+      "salary_range": "8-50 triệu VNĐ",
+      "education": "Đại học Mỹ thuật hoặc tự học",
+      "career_path": "Photographer Assistant -> Photographer -> Senior Photographer -> Studio Owner"
+    },
+    {
+      "id": 13,
+      "name": "Nhà tâm lý học",
+      "name_en": "Psychologist",
+      "description": "Nghiên cứu và điều trị các vấn đề tâm lý con người",
+      "interests": ["tâm lý", "giúp đỡ người khác", "nghiên cứu", "lắng nghe", "empathy", "con người"],
+      "skills": ["tâm lý học", "lắng nghe", "empathy", "phân tích", "tư vấn"],
+      "salary_range": "12-40 triệu VNĐ",
+      "education": "Đại học Tâm lý học + Chứng chỉ hành nghề",
+      "career_path": "Tâm lý viên -> Nhà tâm lý -> Nhà tâm lý lâm sàng -> Chuyên gia tâm lý"
+    },
+    {
+      "id": 14,
+      "name": "Kỹ sư xây dựng",
+      "name_en": "Civil Engineer",
+      "description": "Thiết kế và giám sát xây dựng các công trình",
+      "interests": ["xây dựng", "kỹ thuật", "toán học", "vật lý", "thiết kế", "thực tế"],
+      "skills": ["kỹ thuật", "CAD", "quản lý dự án", "tính toán", "giám sát"],
+      "salary_range": "12-45 triệu VNĐ",
+      "education": "Đại học Xây dựng",
+      "career_path": "Kỹ sư tập sự -> Kỹ sư -> Kỹ sư trưởng -> Giám đốc dự án"
+    },
+    {
+      "id": 15,
+      "name": "Doanh nhân",
+      "name_en": "Entrepreneur",
+      "description": "Khởi nghiệp và điều hành doanh nghiệp riêng",
+      "interests": ["kinh doanh", "lãnh đạo", "sáng tạo", "mạo hiểm", "độc lập", "chiến lược"],
+      "skills": ["lãnh đạo", "quản lý", "marketing", "tài chính", "networking"],
+      "salary_range": "Không giới hạn",
+      "education": "Đa dạng, ưu tiên Quản trị kinh doanh",
+      "career_path": "Founder -> CEO -> Serial Entrepreneur"
+    }
+  ],
+  "interest_keywords": [
+    "công nghệ", "lập trình", "nghệ thuật", "sáng tạo", "y học", "khoa học",
+    "giáo dục", "tài chính", "marketing", "thiết kế", "viết lách", "dữ liệu",
+    "nấu ăn", "luật pháp", "nhiếp ảnh", "tâm lý", "xây dựng", "kinh doanh",
+    "thể thao", "âm nhạc", "du lịch", "thời trang", "game", "phim ảnh"
+  ]
+}
